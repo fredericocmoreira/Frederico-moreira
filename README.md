@@ -7,13 +7,13 @@ Oops, my name is Frederico, I'm currently paid to solve problems using Linux, co
 </br>
 </br>
 <p align="center">
-  <a href="[https://github.com/michaelmoreira?tab=followers](https://github.com/Frederico-moreira?tab=repositories)">
+  <a href="https://github.com/Frederico-moreira?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://twitter.com/_michaelmoreira](https://twitter.com/FredyCarvalho37)">
+  <a href="https://twitter.com/FredyCarvalho37">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/moreiramelo/](https://www.linkedin.com/in/fredymoreira/)">
+  <a href="https://www.linkedin.com/in/fredymoreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </p>
